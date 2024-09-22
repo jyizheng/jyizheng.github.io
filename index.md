@@ -1,23 +1,26 @@
----
-layout: default
-title: Yizheng Jiao
----
-
 # Yizheng Jiao
 
-![Profile Picture](path_to_image)
+Welcome to my personal website!
 
-**Ph.D. Candidate in Computer Science**
+## About Me
 
-501 Murphy Ranch Road, Apt 414, Milpitas, CA 95035  
-Phone: +1 (919) 914-1794  
-Email: [yizheng@cs.unc.edu](mailto:yizheng@cs.unc.edu)  
-GitHub: [jyizheng](https://github.com/jyizheng)
+I am a Ph.D. candidate in Computer Science at the University of North Carolina at Chapel Hill, working on the design and implementation of efficient and secure data management systems. My current research focuses on write-optimized index data structures and secure key-value stores.
 
 ## Research Interests
-My research focuses on the design and implementation of efficient and secure data management systems. I work on write-optimized index data structures for high-speed storage systems. I am developing a general-purpose in-kernel file system on Linux that provides compelling performance on micro-write intensive workloads.
+- Efficient and secure data management systems
+- Write-optimized index structures for high-speed storage
+- Secure key-value stores using SGX/TrustZone
 
-Explore my research on secure persistent key-value stores using SGX/TrustZone for data protection against malicious OS attacks.
+## Professional Experience
+- **Researcher** - ByteDance Inc, San Jose, CA
+  - Designing efficient storage systems for cloud databases.
+  - Implementing high-performance block storage systems.
 
+- **Research Intern** - NetApp Inc, Durham, NC
+  - Optimized BetrFS for SSD devices, improving performance by 2x.
 
+(Include more details based on your resume)
+
+## Contact
+You can reach me at [yizheng@cs.unc.edu](mailto:yizheng@cs.unc.edu) or visit my [GitHub profile](https://github.com/jyizheng).
 
