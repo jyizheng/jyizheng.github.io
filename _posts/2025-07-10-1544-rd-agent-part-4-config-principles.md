@@ -1,6 +1,14 @@
 ---
+
+### 文件五：第四篇博客
+
+**新文件名:** `2025-07-10-1544-rd-agent-part-4-config-principles.md`
+
+**文件内容:**
+```markdown
+---
 title: "RD-Agent 学习 (四): 配置管理设计五大原则深度剖析"
-date: "2025-07-14 10:00:00 +0800"
+date: "2025-07-10 15:44:00 +0800"
 author: jyizheng
 category: rd-agent-study
 ---
