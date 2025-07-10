@@ -1,4 +1,5 @@
 ---
+layout: standalone
 title: "RD-Agent 学习 (四): 配置管理设计五大原则深度剖析"
 date: "2025-07-10 15:44:00 +0800"
 author: jyizheng
