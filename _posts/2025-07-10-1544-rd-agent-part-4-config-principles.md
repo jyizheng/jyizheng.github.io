@@ -1,17 +1,12 @@
 ---
-
-### 文件五：第四篇博客
-
-**新文件名:** `2025-07-10-1544-rd-agent-part-4-config-principles.md`
-
-**文件内容:**
-```markdown
----
 title: "RD-Agent 学习 (四): 配置管理设计五大原则深度剖析"
 date: "2025-07-10 15:44:00 +0800"
 author: jyizheng
 category: rd-agent-study
+excerpt_separator: ""
 ---
+
+本文是一篇交互式的深度剖析，详细介绍了从微软 RD-Agent 项目中提炼出的五大配置管理设计原则。点击阅读，体验一个独立的、交互式的学习页面。
 
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -393,4 +388,5 @@ process_documents()
     </script>
 </body>
 </html>
+
 
