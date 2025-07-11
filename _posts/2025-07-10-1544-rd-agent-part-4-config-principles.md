@@ -189,4 +189,4 @@ $ python main.py
 将配置外部化、利用约定简化代码、保证类型安全并集中管理——这些现代高质量软件开发的基石，在该项目中得到了完美的体现。希望这个案例分析能对你的下一个项目有所启发！
 
 ---
-[**上一篇：代码实现：Agent 如何自主学习与演进**]({% post_url 2025-07-13-rd-agent-part-3-core-logic %}) | [**返回系列目录**]({% post_url 2025-07-10-rd-agent-series-toc %})
+[**上一篇：代码实现：Agent 如何自主学习与演进**]({% post_url 2025-07-10-1450-rd-agent-part-3-core-logic %}) | [**返回系列目录**]({% post_url 2025-07-10-1340-rd-agent-series-toc %})

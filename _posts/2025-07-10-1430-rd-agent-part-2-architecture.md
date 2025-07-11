@@ -18,5 +18,5 @@ category: rd-agent-study
 `RD-Agent` 最具创新性的一点是，它在 R 和 D 之间建立了一个持续的反馈循环。开发组件的执行结果会作为新的知识反馈给研究组件，从而让 Agent 能够像人类专家一样，从实践中学习、验证并迭代优化自己的想法和知识库。这是首个将科研自动化与真实世界验证联系起来的框架。
 
 ---
-[**上一篇：项目概览与环境设置**]({% post_url 2025-07-11-rd-agent-part-1-setup %}) | [**下一篇：代码实现：Agent 如何自主学习与演进**]({% post_url 2025-07-13-rd-agent-part-3-core-logic %})
+[**上一篇：项目概览与环境设置**]({% post_url 2025-07-10-1420-rd-agent-part-1-setup %}) | [**下一篇：代码实现：Agent 如何自主学习与演进**]({% post_url 2025-07-13-rd-agent-part-3-core-logic %})
 
