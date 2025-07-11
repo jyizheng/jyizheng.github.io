@@ -28,26 +28,13 @@ You can reach me at [jyizheng@gmail.com](mailto:jyizheng@gmail.com) or visit my 
 ### Software Engineer Intern, vSan Team, VMWare Inc. (May 2017 - Aug 2017)
 - Optimized Copy-on-Write B-tree, improving read performance by 50%.
 
-## Publications
-
-- **[Eurosys 2022]**: BetrFS: A Compleat File System for Commodity SSDs  
-  Yizheng Jiao, Simon Bertron, et al.
-
-- **[FAST 2020]**: How to Copy Files  
-  Yang Zhan, Alex Conway, Yizheng Jiao, et al.
-
-- **[ICPR 2019]**: ArmorPLC: Cyber Security Threats Detection through Ladder Logic Validation for PLCs  
-  Wenhui Zhang, Yizheng Jiao, et al.
-
 ## Technology Skills
 
-- **Programming Languages**: C, Python, Java
-- **Operating Systems**: Linux
-- **Services**: AWS Cloud Services, Docker, Jenkins
+- **Programming Languages**: Rust, Python, C/C++
+- **Platform**: Pytorch, Kubernetes, Linux Kernel
 
 ---
 ## Social Accounts
-[Itch.io](#) \
 [Patreon](#) \
 [Youtube](#) \
 [My Website](#) \
