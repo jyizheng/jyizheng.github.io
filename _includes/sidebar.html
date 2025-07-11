@@ -2,9 +2,12 @@
     <h1 class="site-header">{{ site.title }}</h1>
     {% assign author = site.github_username -%}
     <a href="{{ '/' | absolute_url }}">{% avatar user=author size=200 -%}</a>
-    <h4>{{ site.description }}</h4><br>
+    <br>
     <h2><a href="{{ '/about.html' | absolute_url }}">About</a></h2>
     <h2><a href="{{ '/blog/' | absolute_url }}">Blogs</a></h2>
     <h2><a href="{{ '/publications/' | absolute_url }}">Publications</a></h2>
+
+    <!-- The quote is now at the bottom with a specific class for styling -->
+    <h4 class="sidebar-quote">{{ site.description }}</h4>
 </div>
 
