@@ -1,6 +1,6 @@
 ---
 title: "RD-Agent 学习 (二): 核心架构：双循环的 R&D 框架"
-date: "2025-07-12 11:30:00 +0800"
+date: "2025-07-10 14:30:00 +0800"
 author: jyizheng
 category: rd-agent-study
 ---
