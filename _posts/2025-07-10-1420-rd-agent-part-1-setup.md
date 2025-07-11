@@ -31,5 +31,5 @@ category: rd-agent-study
 在下一篇文章中，我们将深入其核心架构。
 
 ---
-[**返回系列目录**]({% post_url 2025-07-10-1340-rd-agent-series-toc %}) | [**下一篇：核心架构：双循环的 R&D 框架**]({% post_url 2025-07-12-rd-agent-part-2-architecture %})
+[**返回系列目录**]({% post_url 2025-07-10-1340-rd-agent-series-toc %}) | [**下一篇：核心架构：双循环的 R&D 框架**]({% post_url 2025-07-10-1430-rd-agent-part-2-architecture %})
 
